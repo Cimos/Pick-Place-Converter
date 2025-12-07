@@ -1,0 +1,15 @@
+========================================================================================================================
+File Design Information:
+
+Date:
+Time:
+Revision:
+Variant:    No variations
+Units used: mm
+
+"Designator","Comment","Layer","Footprint","Center-X(mm)","Center-Y(mm)","Rotation"
+"C12","220p","BottomLayer","0603","41.6000","31.5000","360"
+"C13","10u","BottomLayer","0805","49.2350","33.7920","360"
+"C14","220n","BottomLayer","0603","45.1000","30.9000","360"
+"C17","100n","BottomLayer","0402","50.9270","31.6230","90"
+"C18","820p","BottomLayer","0402","35.9000","33.6000","270"
